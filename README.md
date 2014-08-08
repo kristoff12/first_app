@@ -1,0 +1,1 @@
+Moja nowa aplikacja testowa
